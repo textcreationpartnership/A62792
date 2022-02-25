@@ -1,0 +1,398 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the nobility of England</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 31 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A62792</idno>
+            <idno type="STC">Wing T1577</idno>
+            <idno type="STC">ESTC R2151</idno>
+            <idno type="EEBO-CITATION">12411486</idno>
+            <idno type="OCLC">ocm 12411486</idno>
+            <idno type="VID">61538</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A62792)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 61538)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 276:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the nobility of England</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : coats of arms  </extent>
+               <publicationStmt>
+                  <publisher>Printed by Leon. Lichfield for Richard Davis, and are to be sold by Moses Pitt ... Henry Mortlock ... and at the White Hart ...,</publisher>
+                  <pubPlace>Oxford :</pubPlace>
+                  <date>1679.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Includes the text of "Exemplar literarum quas comites &amp; barones Angliae = The coppy of a letter sent by the earls and barons of England," dated Feb. 12, 1300, as an example to the English nobility of their ancestors' resistance to the Pope's authority over the crown.</note>
+                  <note>Marginal notes.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church and state --  England.</term>
+               <term>Church and state --  Catholic Church.</term>
+               <term>Prerogative, Royal.</term>
+               <term>Great Britain --  History --  Edward I, 1272-1307.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:61538:1"/>
+            <head>TO THE NOBILITY OF ENGLAND.</head>
+            <opener>
+               <salute>My LORDS,</salute>
+            </opener>
+            <p>EXample has ever been reckon'd amongst the Cheifeſt motives of Perſwaſion: and of all Examples, thoſe certainly are moſt prevalent to particular Perſons, which can be drawm from their own Families. 'Tis a debt which you owe to your Anceſtors, to inherit their Virtues, and brave Actions, as wall as their Lands, and Titles, and therefore it concerns you to know them: and perhaps, a more Signal Instance can hardly be found in all Hiſtory, of their Loyalty to their king and Country, than this Ancient Record which is here preſented to your <hi>LORDSHIPS</hi>: which ſhews you with what couragious unanimity, your Fore-fathers did diſown, and reſiſt the Authority of <hi>Rome</hi> uſurped over this Crown. You have this reſolute anſwer ratified by the Seals of the whole Lay Nobility, and the Contents will tell you, that what they Seal'd with their Hands, they would likewſe Seal with their Bloud; <hi>totis Viribus defendere.</hi> Now this was done at a time, when the Popes power was almoſt at the heigheſt in this Kingdome; not long after the pretended reſignation of the Crown by King <hi>John</hi>: and in a cauſe, when only one branch of the Royal Prerogative was violated, by the <hi>Popes</hi> interpoſi<g ref="char:EOLhyphen"/>tion in the Settlement of the Title of <hi>Scotland</hi>; and if the infringment of this one Right, was ſo highly reſented by theſe Nobles, what would their undaunted Reſolutions have been, if the whole Supream Prerogative had been at ſtake? Your <hi>LORDSHIPS</hi> are referred to the <hi>Letter</hi> it ſelf to gueſse.</p>
+         </div>
+         <div xml:lang="lat" type="letter">
+            <head>Exemplar Literarum quas Comites &amp; Barones <hi>Angliae</hi> miſerunt <hi>Papae</hi> ſuper negotio Scotorum, Anno Regni Regis, EDWARDI Primi, 29.</head>
+            <opener>
+               <salute>SAnctiſſimo in Chriſto Patri Domino <hi>Bonifacio</hi> divina Providentia Sanctae Romanae &amp; univerſalis Eccleſiae ſummo Pon<g ref="char:EOLhyphen"/>tifici</salute>
+               <signed>
+                  <hi>ſui devoſt Filii</hi> Johannes Comes <hi rend="sup">1</hi> Warren: Thomas Comes <hi rend="sup">2</hi> Lancaſtriae: Radulphus de Montehermerii Comes <hi rend="sup">3</hi> Gloceſtriae &amp; Hertfordiae Humfridus de Bohun Comes <hi rend="sup">4</hi> Hereford &amp; Eſſex, Conſtabularius Angliae: Rogerus Bigot Comes <hi rend="sup">5</hi> Nouffolk &amp; Matiſcallus Angliae: Guido Comes <hi rend="sup">6</hi> Waruuici: Richardus Comes <hi rend="sup">7</hi> Arundel: Adamorus de <hi rend="sup">8</hi> Valencia Dominus de Montemaco: Henricus de Lancaſtria dominus de <hi rend="sup">9</hi> Monemuch: Johannes de Haſting Dominus de <hi rend="sup">10</hi> Bergavenny: Henricus de <hi rend="sup">11</hi> Percy Dominus de Topolif: Edmundus de <hi rend="sup">12</hi> Mortuomari Dominus de Wig more: Robre tus fihus <hi rend="sup">13</hi> Walteri Dominus de Woodham: Willielmus Dominus de <hi rend="sup">14</hi> Molyns: Johannes de <hi rend="sup">15</hi> Sancto Jo<g ref="char:EOLhyphen"/>hanne Dominus de Hanacre: Hugo de <hi rend="sup">16</hi> Ver Dominus de Swaneſcampes: Willielmus de <hi rend="sup">17</hi> Brewoſe, Dominus de Gowet: Robertus de <hi rend="sup">18</hi> Monte alſo Dominus de Hawardyn: Robertus de <hi rend="sup">19</hi> Tateſhule Dominus de Buckenham: Reginaldus de <hi rend="sup">20</hi> Grey Dominus de Ruthin: Henricus de <hi rend="sup">21</hi> Grey Dominus de Codenore: Hugo <hi rend="sup">22</hi> Bardolf Dominus de Wirmegey. Robertus de <hi rend="sup">23</hi> Toney Dominus de Caſtro Matil<g ref="char:EOLhyphen"/>dis: Willielmus de <hi rend="sup">24</hi> Roos Dominus de Hamelake: Robertus de <hi rend="sup">25</hi> Clifford Caſtellanus de Apilby: Petrus de <hi rend="sup">26</hi> Malolacu Dominus de Mul<g ref="char:EOLhyphen"/>greve: Hillippus Dominus de <hi rend="sup">27</hi> Kyme: Rubertus filius Rogeri Dominus de <hi rend="sup">28</hi> Clavering: Johannes de <hi rend="sup">29</hi> Mohun Dominus de Duaſter: Almaricus de <hi rend="sup">30</hi> Sancto Amando Dominus de Wydehay: Willielmus de <hi rend="sup">31</hi> Ferrariis Dominus de Groby: Alanus la <hi rend="sup">32</hi> Zuche Dominus de Aſheby: Theobaldus de <hi rend="sup">33</hi> Verdoun Dominus de Webbele: Thomas de <hi rend="sup">34</hi> Furnyvall Dominus de Shefeld: Thomas de <hi rend="sup">35</hi> Multon Dominus de E<g ref="char:EOLhyphen"/>gremont: Willielmus de <hi rend="sup">36</hi> Latimer Dominus de Corbi: Thomas Dominus de <hi rend="sup">37</hi> Bekele: Fulco filius <hi rend="sup">38</hi> Warini Dominus de Witinton: Johannes Dominus de <hi rend="sup">39</hi> Segrave Edmundus de <hi rend="sup">40</hi> Eyncourt Dominus de Thurgerton: Petrus <hi rend="sup">41</hi> Corbet Dominus de Caus: Willielmus de <hi rend="sup">42</hi> Cante Lupo Dominus de Raveſthorp: Johannes de <hi rend="sup">43</hi> Bellocampo Dominus de Hacche: hogerus de <hi rend="sup">44</hi> Mortuomari Dominus de Penket<g ref="char:EOLhyphen"/>lyn: Johannes filius <hi rend="sup">45</hi> Reginaldi Dominus Blenlevi: Ranulphus de <hi rend="sup">46</hi> Nevil Dominus de Raby: Brianus filius <hi rend="sup">47</hi> Alani Dominus de Bedale: Willielmus <hi rend="sup">48</hi> Mareſcallus Dominus de Hengham: Walterus Dominus de <hi rend="sup">49</hi> Huntercombe: Willielmus <hi rend="sup">50</hi> Martin Dominus de Cammes Henricus le <hi rend="sup">51</hi> Tyeis Dominus de Chilton: Rogerus <hi rend="sup">52</hi> la Warre Dominus de Iſefield: Johannes de <hi rend="sup">53</hi> Ripariis Dominus de Angre: Jo<g ref="char:EOLhyphen"/>hannes de <hi rend="sup">54</hi> Lancaſtre Dominus de Griſdale: Robertus <hi rend="sup">55</hi> filius Pagani Dominus de Lammer: Henricus <hi rend="sup">56</hi> Tregotz Dominus de Garringes: Radulphus <hi rend="sup">57</hi> Pypard Dominus de Limford. Walterus Dominus de <hi rend="sup">58</hi> Faucumberg: Rogerus <hi rend="sup">59</hi> le Eſtrange Dominus de Elleſmere. Johannes le <hi rend="sup">60</hi> Eſtrange Dominus de Knokyn. Thomas de <hi rend="sup">61</hi> Chaurtes Dominus de Norton: Walterus de <hi rend="sup">62</hi> Bello campo Dominusde Aleceſtre: Ri<g ref="char:EOLhyphen"/>chardus <hi rend="sup">63</hi> Taleboi Dominus de Eckleſwell: Johannes <hi rend="sup">64</hi> Buttecourt Dominus de Mendeſham: Johannes <hi rend="sup">65</hi> Engayn Dominusde Colum: Hugo <hi rend="sup">66</hi> Poynz Dominus de Cori. Malet: Adam Dominus de <hi rend="sup">67</hi> Well: Simon Dominus de <hi rend="sup">68</hi> Monte Acuto: Johannes Dominus de <hi rend="sup">69</hi> Sullee: Johannes de <hi rend="sup">70</hi> Moeles Dominus de Canterburi Edmundus Baro <hi rend="sup">71</hi> Stafford:Johannes <hi rend="sup">72</hi> Lovel Dominus de Sackyng: Edmundus de <hi rend="sup">73</hi> Haſting Domi<g ref="char:EOLhyphen"/>nus de Enchuneholmok: Radulphus filius <hi rend="sup">74</hi> Willielmi Dominus de Granthorp: Robertus de <hi rend="sup">75</hi> Scalariis Dominus de Neuſeles: Willielmus <hi rend="sup">76</hi> Tcuchet Dominus de Levenhales: Johannes <hi rend="sup">77</hi> Abadam Dominus de Beverſlon: Johannes de <hi rend="sup">78</hi> Haveringes Dominus de Grafton: Ro<g ref="char:EOLhyphen"/>bertus la <hi rend="sup">79</hi> Warde Dominus de Alba-aula: Nicholaus de <hi rend="sup">80</hi> Segrave Dominus de Stowe: Walterus de <hi rend="sup">81</hi> Teye Dominus de Stangveve: Jo<g ref="char:EOLhyphen"/>hannes <hi rend="sup">82</hi> de Inſula Dominus de Wodeton. Euſtachius Dominus de <hi rend="sup">83</hi> Hacche: Gilbertus <hi rend="sup">84</hi> Pecche Dominus de Corby: Wiilielmus <hi rend="sup">85</hi> Pay<g ref="char:EOLhyphen"/>nell Dominus de Tracinton. Bogo de <hi rend="sup">86</hi> Knovill Dominus de Albo Monaſterio: Fulco le <hi rend="sup">87</hi> Eſtrange Dommus de Corſham: Henricus de <hi rend="sup">88</hi> Pinkeney Dominus de Wedon: Johannes de <hi rend="sup">89</hi> Hudleſton Dominus de Daneys: Rogerus de <hi rend="sup">90</hi> Huntingfeld Dominus de Bradenham: Hugo filius <hi rend="sup">91</hi> Henrici Dominus de Raveneſwath: Johannes le <hi rend="sup">92</hi> Breton Dominus de Sporle: Nicholaus de <hi rend="sup">93</hi> Carrau Dominus de Mulesford: Tho<g ref="char:EOLhyphen"/>mas Dnminus de la <hi rend="sup">94</hi> Roche: Walterus de <hi rend="sup">95</hi> Muncy Dominus de Thornton: Johannes filius <hi rend="sup">96</hi> Marmaduci Dominus de Hordene: Johannes Dominus de <hi rend="sup">97</hi> Kingeſton: Robertus <hi rend="sup">98</hi> Haſtang Dominus de la Deſiree: Radulphus Dominus de <hi rend="sup">99</hi> Grandon:Willielmus Dominus de <hi rend="sup">100</hi> Ley<g ref="char:EOLhyphen"/>botn: Johannes de <hi rend="sup">101</hi> Graſtock Dominus de Morpath: Matheus filius <hi rend="sup">102</hi> Johannis Dominus de Stockenhame: Nicholaus de <hi rend="sup">103</hi> Meynill Do<g ref="char:EOLhyphen"/>minus de Wherleton: &amp; Johannes <hi rend="sup">104</hi> Paynell Dominus de Otteleye:</signed>
+               <salute>Devota pedum oſcula beatorum,</salute>
+            </opener>
+            <p>Sancta Romana Mater Eccleſia per cujus miniſterium fides Catholica gubernatur in ſuit is astibus, cum ea, ſicut ſirmiter credi<g ref="char:EOLhyphen"/>mus &amp; tenemus, maturitate procedit, quod nulli praejudicare, ſed ſingulorum jura non minus in aliis, quam in ipſa tanqum mater alma conſervari vclit illeſa. Satie convocato nuper per ſercniſnmn Dominum noſtum <hi>Edwardum</hi> Deigratia Regem <hi>Angliae</hi> Illustrem Parliamento apud <hi>Lincoln</hi> generait, Idem Dominus noſter qnaſdam literas Apoſtolicas, qu as ſuper cert is negoliis, conditionem &amp; ſtatum Regni <hi>Scotiae</hi> tangentibus, exparte veſtra recepcrat, inmedio exhiberi, &amp; ſerioſè nobis fecit exponi. Quilus audit is, &amp; diligentius intellectis, tam noſtris ſenſibus admiranda, quam hactenus inandita in eiſdem audivi<g ref="char:EOLhyphen"/>mus contin<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ri. Scimus enim, Pater ſanctiſſime, &amp; notorium eſt in partibus <hi>Angliae,</hi> &amp; nonnullis aliis non ignotum, quod a prima inſtitutione Regni <hi>Angliae,</hi> Reges ejuſdem regni, tam temporibus Britonum quant <hi>Anglorum,</hi> ſupertus &amp; directum dominium regni <hi>Scotiae</hi> habuerunt, &amp; in poſſeſſione, vel quaſi, Superioritat is &amp; directi Dominii ipſius regni <hi>Scotiae</hi> ſucceſivis temporibus extiterunt, nec nllis temporibns, ipſum regnmn in temporales pertinnit, velpertmet quavis jure ad Eccleſiam ſnam praedictam, quinimto idem Regnum <hi>Scottae</hi> progemtoribus praedictii Domini noſln Regtbus <hi>Angliae</hi> pertinuit, atque ſibi feodale extitit ab antiqno. Nec etiam, <hi>Reges Scotorum</hi> &amp; regnuut aliis qnam Rtgihm <hi>Angliae</hi> ſubfuerunt vel ſubjici conſuerunt. <hi>Neqne Reges Angliae</hi> ſuper juribus ſuis in regno praedio, aut ALIIS SUIS TEMPORALIBUS, coran ali<g ref="char:EOLhyphen"/>quo Judice Eccleſiaſtico, vel Seculri, ex libera praeminentia ſlau ſuae regiae diyniatis, &amp; conſuetudinis cnnctis tempori<g ref="char:EOLhyphen"/>bus irreſragabiliter obſervatae reſfponderunt, aut reſpondere debebant. Unde habilo tractatu, &amp; dcliberatione diligent, ſnper contentis veſtris literis memoratis, communis, concors &amp; unanimis omnium noſtrorum &amp; ſingulorum conſenſ us fuit, eſt, ac erit, inconcuſſè, Deo propitio, in futurum, quod praeſatus Dominus noſter Rex ſuper juribus regm <hi>Scotiae,</hi> AUT ALIIS SUIS TEMPOR ALIBUS, nullatenus judicialiter reſpondeat coram vobis, nec judicium ſubeat quoquomodo, aut jura ſua praedicta in dubinm qnaeſtionis dedncat, nec ad praeſentiam veſtram Procuratores aut Nuncios ad boc muttat. Praecipuc cum praemiſſa cederent manifeſlè in exhaeredationem jnris Coronae Regni <hi>Angliae</hi> &amp; dignitatis, ac ſubver ſionem ſtatus e<g ref="char:EOLhyphen"/>juſdem regni notoriam, nec non in praejudicium libertatum, conſuetudinum, &amp; legum paternarum, ad quarum obſervationem &amp; defenſionm, ex debito praestiti Juramenti oſtringimur, &amp; quae manu tenebimus toto poſſe totiſ<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> viribus cum Dei auxilio de<g ref="char:EOLhyphen"/>fendemus. Nec etiam permittimus, aut aliquatenus permittemus, ſicut nec poſſumus, nec debemus, praemiſſa tam inſolita, inde<g ref="char:EOLhyphen"/>hita, praejudicialia, &amp; alias inaudita, praelibatum Dominum noſtrum Regem, etiamſi vellet, facere, ſeu quomodolibet attemptare. Quocirca ſanctitati veſtrae reverenter &amp; humiliter ſupplicamus, quatenus eundem Dominum nostrum Regem, qui inter alios Principes orbis terrae catholicum ſe exhibet, &amp; Eccleſiae Romanae devotum, jura ſua, libertates, conſuetudines, &amp; leges, praedi<g ref="char:EOLhyphen"/>cta, abſ<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> diminutione &amp; inquietudine pacifice poſſidere, &amp; ea illibata perſistere benignius permittatis.</p>
+            <closer>
+               <dateline>In cujus rei Teſtimonium, Sigilla noſtra tam pro nobis, quàm pro tota communnitate praedicti Regni <hi>Angliae</hi> praeſentibus ſunt appenſa, Datum apud <hi>Lyncoln</hi> 
+                  <date>12 <hi>die Februarii,</hi> Anno Domini Milleſimo Tricenteſimo.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div xml:lang="eng" type="letter">
+            <head>The Coppy of a Letter ſent by the Earls and Barons of <hi>England</hi> to the <hi>Pope,</hi> Concern<g ref="char:EOLhyphen"/>ing the Affair of <hi>Scotland,</hi> in the 29. year of the Raign of King EDWARD the First.</head>
+            <opener>
+               <salute>TO the moſt Holy Father in Chriſt <hi>Bonifice,</hi> by divine Providence of the Holy Romane and Catholick Church Pope,</salute>
+               <signed>his Dutyful Sons <hi>John</hi> Earl of <hi rend="sup">1</hi> 
+                  <hi>Warren; Thomas</hi> Earl of <hi rend="sup">2</hi> 
+                  <hi>Lancaſter; Ralph de Montehermerii</hi> Earle of <hi rend="sup">3</hi> 
+                  <hi>Glocester,</hi> and <hi>Hertford; Humphrey</hi> 
+                  <hi rend="sup">4</hi> 
+                  <hi>Bohun</hi> Earl of <hi>Hereford,</hi> and <hi>Eſſex,</hi> Conſtable of <hi>England; Roger</hi> 
+                  <hi rend="sup">5</hi> 
+                  <hi>Bigot</hi> Earl of <hi>Norfolk,</hi> and Marſhal of <hi>England; Guy</hi> Earl of <hi rend="sup">6</hi> 
+                  <hi>Warwick; Richard</hi> Earl of <hi rend="sup">7</hi> 
+                  <hi>Arundel</hi>; <hi rend="sup">8</hi> 
+                  <hi>Adomar</hi> of <hi>Valencia</hi> Lord <hi>de Montemaco</hi>; <hi rend="sup">9</hi> 
+                  <hi>Henry</hi> of <hi>Lancaſter,</hi> Lord of <hi>Mone<g ref="char:EOLhyphen"/>muth; John</hi> 
+                  <hi rend="sup">10</hi> 
+                  <hi>Haſtings</hi> Lord of <hi>ABergavenny; Henry</hi> 
+                  <hi rend="sup">11</hi> 
+                  <hi>Percy</hi> Lord of <hi>Topclif; Fdmund</hi> 
+                  <hi rend="sup">12</hi> 
+                  <hi>Mortimer,</hi> Lord of <hi>Wigmore</hi>; <hi rend="sup">13</hi> 
+                  <hi>Robert</hi> Son of <hi>Walter</hi> Lord of <hi>Woodham; William</hi> Lord <hi rend="sup">14</hi> 
+                  <hi>Molyns; John</hi> 
+                  <hi rend="sup">15</hi> 
+                  <hi>St. John</hi> Lord of <hi>Hanacre; Hugh de</hi> 
+                  <hi rend="sup">16</hi> 
+                  <hi>Ver</hi> Lord of <hi>Swaneſcampes; William</hi> 
+                  <hi rend="sup">17</hi> 
+                  <hi>Brewoſe</hi> Lord of <hi>Gower; Robert</hi> 
+                  <hi rend="sup">18</hi> Montalt Lord of <hi>Hawardyn; Robert</hi> 
+                  <hi rend="sup">19</hi> 
+                  <hi>Tateſhale</hi> Lord of <hi>Buckingham; Reginald</hi> 
+                  <hi rend="sup">20</hi> 
+                  <hi>Grey</hi> Lord of <hi>Ruthin; Henry</hi> 
+                  <hi rend="sup">21</hi> 
+                  <hi>Grey</hi> Lord of <hi>Codenore; Hugh</hi> 
+                  <hi rend="sup">22</hi> 
+                  <hi>Bardolf</hi> Lord of <hi>Wirmegey; Robert</hi> 
+                  <hi rend="sup">23</hi> 
+                  <hi>Toney</hi> Lord of <hi>Wallingford; William</hi> 
+                  <hi rend="sup">24</hi> 
+                  <hi>Rous</hi> Lord of <hi>Hamelake</hi>; <hi rend="sup">25</hi> 
+                  <hi>Robert Clifford</hi> Keeper of <hi>Apleby</hi> Caſtle; <hi>Peter</hi> 
+                  <hi rend="sup">26</hi> 
+                  <hi>Illake</hi> Lord of <hi>Mulgrave</hi>; <hi rend="sup">27</hi> 
+                  <hi>Phillip</hi> Lord of <hi>Kyme</hi>; <hi rend="sup">28</hi> 
+                  <hi>Robert</hi> Son of <hi>Roger</hi> Lord of <hi>Clavering; John</hi> 
+                  <hi rend="sup">29</hi> 
+                  <hi>Mohun</hi> Lord of <hi>Dunſier</hi>; <hi rend="sup">30</hi> 
+                  <hi>Almeric</hi> of St. <hi>Amand</hi> Lord of <hi>Widehay; William</hi> 
+                  <hi rend="sup">31</hi> 
+                  <hi>Ferrars</hi> Lord of <hi>Groby; Alan la</hi> 
+                  <hi rend="sup">32</hi> 
+                  <hi>Zouche</hi> Lord of <hi>Aſheby; Theobald</hi> 
+                  <hi rend="sup">33</hi> 
+                  <hi>Verdoun</hi> Lord of <hi>
+                     <hi>Webbele; Thomas</hi>
+                  </hi> 
+                  <hi rend="sup">34</hi> 
+                  <hi>Furnyvall</hi> Lord of <hi>Shefeld; Thomas</hi> 
+                  <hi rend="sup">35</hi> 
+                  <hi>Multon</hi> Lord of <hi>Egremont; William</hi> 
+                  <hi rend="sup">36</hi> Latime Lord of <hi>Corbi, Thomas</hi> Lord <hi rend="sup">37</hi> 
+                  <hi>Berkele</hi>; <hi rend="sup">38</hi> 
+                  <hi>Fulco</hi> Son of <hi>Warin</hi> Lord of <hi>Witington; John</hi> Lord <hi rend="sup">39</hi> 
+                  <hi>Segrave; Edmund</hi> 
+                  <hi rend="sup">40</hi> 
+                  <hi>Eyncourt</hi> Lord of <hi>Thurgerton; Peter</hi> 
+                  <hi rend="sup">41</hi> 
+                  <hi>Corbet</hi> Lord of <hi>Caus; William</hi> 
+                  <hi rend="sup">42</hi> 
+                  <hi>Cant<g ref="char:EOLhyphen"/>lup</hi> Lord of <hi>Raveſthorp; John</hi> 
+                  <hi rend="sup">43</hi> 
+                  <hi>Beauchamp</hi> Lord of <hi>Hacche; Roger</hi> 
+                  <hi rend="sup">44</hi> 
+                  <hi>Mortimer</hi> Lord of <hi>Penkethlin</hi>; <hi rend="sup">45</hi> 
+                  <hi>John</hi> Son of <hi>Reginald</hi> Lord of <hi>Blenlevi; Ranulph</hi> 
+                  <hi rend="sup">46</hi> 
+                  <hi>Nevil</hi> Lord of <hi>Raby</hi>; <hi rend="sup">47</hi> 
+                  <hi>Brian</hi> Son of <hi>Alan</hi> Lord of <hi>Bedale; William</hi> 
+                  <hi rend="sup">48</hi> 
+                  <hi>Marſhal</hi> Lord of <hi>Hengham; Wal<g ref="char:EOLhyphen"/>ter</hi> 
+                  <hi rend="sup">49</hi> Lord of <hi>Huntercombe; William</hi> 
+                  <hi rend="sup">50</hi> 
+                  <hi>Martin</hi> Lord of <hi>Cammes; Henry</hi> 
+                  <hi rend="sup">51</hi> 
+                  <hi>le Tyeis</hi> Lord of <hi>Chilton</hi>; <hi rend="sup">52</hi> 
+                  <hi>Roger le Ware</hi> Lord of <hi>Iſefield;</hi> John <hi rend="sup">53</hi> 
+                  <hi>Rivers</hi> Lord of <hi>Angre</hi>; <hi rend="sup">54</hi> 
+                  <hi>John Lancastre</hi> Lord of <hi>Griſedale</hi>; <hi rend="sup">55</hi> 
+                  <hi>Robert</hi> Son of <hi>Payn</hi> Lord of <hi>Lammer; Henry</hi> 
+                  <hi rend="sup">56</hi> 
+                  <hi>Tr<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>gotz</hi> Lord of <hi>Garringes; Ralph</hi> 
+                  <hi rend="sup">57</hi> 
+                  <hi>Typard</hi> Lord of <hi>Limford; Walter</hi> Lord <hi rend="sup">58</hi> 
+                  <hi>Faucumberg</hi>; <hi rend="sup">59</hi> 
+                  <hi>Roger L'Eſtrange</hi> Lord of <hi>Elleſmere</hi>; <hi rend="sup">60</hi> 
+                  <hi>John L'Eſtrange</hi> Lord of <hi>Knokyn</hi>; <hi rend="sup">61</hi> 
+                  <hi>Thomas Chaurtes</hi> Lord of <hi>Norton</hi>; <hi rend="sup">62</hi> 
+                  <hi>Walter Beauchamp</hi> Lord of <hi>Aleceſter</hi>; <hi rend="sup">63</hi> 
+                  <hi>Richard Talebot</hi> Lord of <hi>Eck<g ref="char:EOLhyphen"/>leſwell</hi>; John <hi rend="sup">64</hi> 
+                  <hi>Buttecourt</hi> Lord of <hi>Mendeſham</hi>; <hi rend="sup">65</hi> 
+                  <hi>John Engayn</hi> Lord of <hi>Colum</hi>; <hi rend="sup">66</hi> 
+                  <hi>Hugh Poynz</hi> Lord of <hi>Corimalet</hi>; <hi rend="sup">67</hi> 
+                  <hi>Adam</hi> Lord <hi>Wells</hi>; <hi rend="sup">68</hi> 
+                  <hi>Simon</hi> Lord <hi>
+                     <hi>Montacute</hi>
+                  </hi>; <hi rend="sup">69</hi> 
+                  <hi>John</hi> Lord <hi>Sullee</hi>; <hi rend="sup">70</hi> 
+                  <hi>John Mocles</hi> Lord of <hi>Canterbury; Edmund Baron</hi> 
+                  <hi rend="sup">71</hi> 
+                  <hi>Stafford; John</hi> 
+                  <hi rend="sup">72</hi> 
+                  <hi>Lo<g ref="char:EOLhyphen"/>vell</hi> Lord of <hi>Sackyng; Edmund</hi> 
+                  <hi rend="sup">73</hi> 
+                  <hi>Hasting</hi> Lord of <hi>Enchuneholmocke</hi>; <hi rend="sup">74</hi> 
+                  <hi>Ralph</hi> Son of <hi>William</hi> Lord of <hi>Grainthorp</hi>; <hi rend="sup">75</hi> 
+                  <hi>Robert Scales</hi> Lord of <hi>Neuſeles</hi>; <hi rend="sup">76</hi> 
+                  <hi>William Touchet</hi> Lord of <hi>Levenhales; John</hi> 
+                  <hi rend="sup">77</hi> 
+                  <hi>Abadam</hi> Lord of <hi>Beverston; John</hi> 
+                  <hi rend="sup">78</hi> 
+                  <hi>Havaringes</hi> Lord of <hi>Grafton; Robert</hi> 
+                  <hi rend="sup">79</hi> 
+                  <hi>Ward</hi> Lord of <hi>Whitehall; Nicholas</hi> 
+                  <hi rend="sup">80</hi> 
+                  <hi>Segrave</hi> Lord of <hi>Stowe</hi>; <hi rend="sup">81</hi> 
+                  <hi>Walter Teye</hi> Lord of <hi>Stangreve; John</hi> 
+                  <hi rend="sup">82</hi> 
+                  <hi>L'Iſle</hi> Lord of <hi>Wodeton</hi>; <hi rend="sup">83</hi> 
+                  <hi>Euſtace</hi> Lord <hi>Hacche; Gilbert</hi> 
+                  <hi rend="sup">84</hi> 
+                  <hi>Pecche</hi> Lord of <hi>Corby; William</hi> 
+                  <hi rend="sup">85</hi> 
+                  <hi>Paynell</hi> Lord of <hi>Tracinton</hi>; <hi rend="sup">86</hi> 
+                  <hi>Bogo Knovill</hi> Lord of <hi>Whitminſter; Ful<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o</hi> 
+                  <hi rend="sup">87</hi> 
+                  <hi>L'Eſtrange</hi> Lord of <hi>Corfham</hi>; <hi rend="sup">88</hi> 
+                  <hi>Henry Pinkeney</hi> Lord of <hi>Wedon; John</hi> 
+                  <hi rend="sup">89</hi> 
+                  <hi>Hudleston</hi> Lord of <hi>Daneys; Roger</hi> 
+                  <hi rend="sup">90</hi> 
+                  <hi>Huntingfeld</hi> Lord of <hi>Bra<g ref="char:EOLhyphen"/>donhame</hi>; <hi rend="sup">91</hi> 
+                  <hi>Hugh</hi> Son of <hi>Henry</hi> Lord of <hi>Raveneſwath</hi>; <hi rend="sup">92</hi> 
+                  <hi>John le Breton</hi> Lord of <hi>Sporle; Nicholas</hi> 
+                  <hi rend="sup">93</hi> 
+                  <hi>Carrau</hi> Lord of <hi>Muleſford</hi>; <hi rend="sup">94</hi> 
+                  <hi>Tho<g ref="char:EOLhyphen"/>mas</hi>; Lord <hi>de la Roche; Walter</hi> 
+                  <hi rend="sup">95</hi> 
+                  <hi>Muncey</hi> Lord of <hi>Thornton</hi>; <hi rend="sup">96</hi> 
+                  <hi>John</hi> Son of <hi>Marmaduc</hi> Lord of <hi>Hordene</hi>; <hi rend="sup">97</hi> 
+                  <hi>John</hi> Lord <hi>Kingſton</hi>; <hi rend="sup">98</hi> 
+                  <hi>Ro<g ref="char:EOLhyphen"/>bert Haſting</hi> Lord <hi>de la Deſiree</hi>; <hi rend="sup">99</hi> 
+                  <hi>Ralph</hi> Lord <hi>Grandon; William</hi> 
+                  <hi rend="sup">100</hi> Lord <hi>Leyborn; John</hi> 
+                  <hi rend="sup">101</hi> 
+                  <hi>Graſtock</hi> Lord of <hi>Morpath</hi>; <hi rend="sup">102</hi> 
+                  <hi>Mathew</hi> Son of <hi>John</hi> Lord of <hi>Stockenhame; Nicholas</hi> 
+                  <hi rend="sup">103</hi> 
+                  <hi>Meynill</hi> Lord of <hi>Wherleton</hi>; and <hi>John</hi> 
+                  <hi rend="sup">104</hi> 
+                  <hi>Paynell</hi> Lord of <hi>Otteleye</hi>
+               </signed>
+               <salute>Devoutly Kiſs your Holyneſs;'s Feet.</salute>
+            </opener>
+            <p>The Holy Mother Church of Rome; by whoſe Miniſtry the Catholick Faith is directed, doth proceed as we firmely believe, and hold, with that Maturity of Counſel in her determination, that ſhe not prejudice any, but like a Tender Mother is willing to preſerve the Rights of every particular perſon inviolable, as well in other places, as within her own precincts. Wherefore a full Par<g ref="char:EOLhyphen"/>liament being Call'd, by our Soveraign Lord <hi>Edward</hi> by the Grace of God the Renowned King of <hi>England,</hi> at his City of <hi>Lincoln,</hi> He our ſaid Soveraign did cauſe to be Publickly produc'd, and faithfully Interpreted to us, certain Apoſtolical Letters received from You concerning ſome affairs relating to the Condition, and state of the Kingdom of <hi>Scotland.</hi> Which having heard, and well under<g ref="char:EOLhyphen"/>ſtood, we found that contained ſuch things, as ſeem'd very ſtrange to us, and ſuch as were never heard of before. For we know that from the very moſt Holy Father, and 'tis well known throughout this Realm of <hi>England,</hi> and not unknown to other places, that from the very begining of the Realm of <hi>England,</hi> the Soveraign and Direct Dominion of the Kingdom <hi>Scotland,</hi> has been injoyed by the Kings of <hi>England,</hi> both in the times of the <hi>Britains,</hi> and alſo of the <hi>Engliſh.</hi> And that they have been in the poſſeſſion, (or as Good) of the Supremacy, and direct Dominion of the ſaid Kingdom of <hi>Scotland,</hi> in all ſucceeding Ages; Neither hath the ſaid Kingdom at any time in Temporals belonged, or doth belong by any manner of Right unto your Church of <hi>Rome</hi> aforeſaid, but in truth the ſaid Kingdom of <hi>Scotland,</hi> hath belonged unto the Anceſtors of our aforeſaid Soveraign Lord, Kings of <hi>England,</hi> and of old time hath been Feu<g ref="char:EOLhyphen"/>datory to them alone. Neither have the King and Kingdom of <hi>Scotland</hi> been ſubject, or uſually under any one elſe but the Kings of <hi>England</hi>; Neither have the Kings of <hi>England</hi> given in any Anſwer, or ought to give in any Anſwer, in reference to their Rights in that Kingdom, OR ANY OTHER THEIR TEMPORALATIES, before any Judge Eccleſaſtical or Secular, by reaſon of the Bound<g ref="char:EOLhyphen"/>leſs Preeminence of their State and Royal Dignity, and Cuſtome Irrefragably obſerved throughout all Ages. Wherefore, after a ſe<g ref="char:EOLhyphen"/>rious Debate, and Conſideration of the Contents of your aforeſaid Letters. The Common, Joynt, and Unanimous conſent of all, and every of us was, is, and by the help of God ſhall be Reſolutely for ever, That our aforeſaid Soveraign Lord the King, Ought in no wiſe to give in any Anſwer in Judgment before you, touching His Rights in the Kingdom of <hi>Scotland,</hi> OR ANY OTHER HIS TEMPORALITIES, nor by any mean to ſubmit to your Juriſdiction, or ſo much as to yeild that his ſaid Rights be brought into Queſti<g ref="char:EOLhyphen"/>on, or to ſend any Proctor, or Meſſenger to appear before you in this Buſineſs. Eſpecially ſince the doing of the Premiſſes would mani<g ref="char:EOLhyphen"/>feſtly tend to the diſinheriting of the Rights of the Crown of the Kingdom of <hi>England,</hi> and of the Royal Prerogative, and to the noto<g ref="char:EOLhyphen"/>rious ſubverſion ot the State of this Realm, and likewiſe to the Prejudice of the Liberties, Cuſtoms and Laws of our Progenitors, All which we are bound by Oath duely to Obſerve, and Defend, and which we will Maintain with the utmoſt of our Power, and by the help of God with all our Might and Main Defend. Moreover, we do not Permit, or in the leaſt will Permit, (for 'tis not in our power, neither ought we) that our ſaid Lord the King ſhould do, or in the leaſt wiſe attempt to do any of the premiſes, ſo ſtrange, ſo unlawful Prejudicial, and otherwiſe unheard of, though He would himſelf. Wherefore we with Reverence humbly beſeech your Holyneſs, that you would Gratiouſly permit the ſaid Soveraign Lord our King, who is as good a Catholick, and as much devo<g ref="char:EOLhyphen"/>ted to the Church of <hi>Rome,</hi> as any Prince of Chriſtiandom, Peaceably to Injoy, His Rights, Liberties, Cuſtomes, and Laws afore<g ref="char:EOLhyphen"/>ſaid, without my Trouble, or Diminution, and ſo to remain untoucht for the future.</p>
+            <closer>
+               <dateline>In Witneſs whereof we have ſet our Seals to theſe preſents, as well for our ſelves, as for the whole Commonalty of the Kingdom of <hi>England</hi> aforeſaid. Dated at <hi>Lincoln</hi> 
+                  <date>the 12 day of <hi>February</hi> in the year of our Lord One Thouſand Three Hundred.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="illustration">
+            <p>
+               <figure>
+                  <figDesc>numbered array of seals</figDesc>
+               </figure>
+            </p>
+         </div>
+         <div type="account">
+            <head>A breif account of <gap reason="illegible: faint" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> popes Pretences of a Civl Right to the Crown of <hi>England,</hi> and the Anſwer thereunto.</head>
+            <p>THat the Pope of <hi>Rome</hi> hath for ſume Ages laſt paſt pretended to a Soveraign Right over Chriſtan Kings and Princes, cannot be un<g ref="char:EOLhyphen"/>known to any, who are acquainted with the writings of their moſt ap<g ref="char:EOLhyphen"/>proved Authors, the Decrees of their Councils, or the Inſtanccs of ſuch u<g ref="char:EOLhyphen"/>ſurped authority recorded in Hiſto<g ref="char:EOLhyphen"/>ries for theſe Five Hundred years. The judgment of their Licenced Au<g ref="char:EOLhyphen"/>thors, their Councils, and their Laws in this Caſe, is excellently publiſhed by the Learned Pen of the Right Re<g ref="char:EOLhyphen"/>verend <hi>Biſhop of Lincoln</hi>; and that the ſame Doctrine hath been by them ge<g ref="char:EOLhyphen"/>nerally received, I can bring no great<g ref="char:EOLhyphen"/>er proofs, than their common practiſe recorded in Hiſtory. How many Em<g ref="char:EOLhyphen"/>perours, Kings, and Soveraign Prin<g ref="char:EOLhyphen"/>ces have been <hi>de Facto</hi> depoſed by them, how many great Maſſacres and pri<g ref="char:EOLhyphen"/>vate Murders have been Encourag<g ref="char:EOLhyphen"/>ed and Defended, how many Tor<g ref="char:EOLhyphen"/>tures, and unheard of Cruelties, how many Treaſons, and Damnable Con<g ref="char:EOLhyphen"/>ſpiracies to the ſubverſion of whole Kingdoms, have been contrived, and ſome executed by Jeſuits, and other Emiſſaries of <hi>Rome,</hi> would require a large Volumn to relate; I ſhall refer the Reader to a few Authors, for his abundant ſatisfaction here<g ref="char:EOLhyphen"/>in <hi>Thuanus,</hi> 
+               <note n="a" place="margin">(a) Lib. 1. cap. 9. de Re<g ref="char:EOLhyphen"/>pub.</note> 
+               <hi>Bodinus,</hi> and the Exact Collection of <note n="b" place="margin">(b) Popiſh Treaſons &amp; V<g ref="char:EOLhyphen"/>ſurpa<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> Mr. <hi>Fowlis.</hi> Nor was there any place felt the weight of the Popes Iron Rod more grievous then the Kingdom of <hi>England</hi>; hence was he wont to exact vaſt ſummes of money, which were as readily paid: and of what eſteem it was with him. <gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>y gather from the Character he gives, when he calls it <note n="*" place="margin">
+                  <gap reason="illegible: blotted" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Inno<g ref="char:EOLhyphen"/>cent 4. Anno 1214.<gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </note> 
+               <hi>Puteus inexhauſtus.</hi> And from <gap reason="illegible: faint" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>from their yoak and burden <gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>n nei<g ref="char:EOLhyphen"/>ther we nor our Fathers were able to beat, what Damning Cenſures and Violent Excommunications have been ſent out againſt us, what Secre<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and Horrible Plots have been contrived to deſtroy our Kings and Kingdoms, I hope will never be forgot: and all this not ſo much to reeſtab<g ref="char:EOLhyphen"/>liſh here the Religion, as the Authority which the Pope hath loſt: and the right of that Title which he claims to this Kingdom, he thinks e<g ref="char:EOLhyphen"/>qual to that pretended from <hi>Conſtantin</hi>'s Donation. And to this purpoſe his Sub-Collector <note n="c" place="margin">(c) Hiſt. Angl. lib. 4.</note> 
+               <hi>Polidore Virgil</hi> tels us, that <hi>Ina</hi> was the firſt King who made this Kingdom of <hi>England</hi> Tributary to the Pope: but he forgets himſelf <hi>pag.</hi> 740. where he ſaith Peter pence was given <hi>Pietatis &amp; Religi<g ref="char:EOLhyphen"/>onis Cauſa,</hi> for Gods ſake, and therefore not by way of Homage and Subjection. This Gift was continued by <hi>Offa. Atulphus. Canutus,</hi> and <hi>Ed<g ref="char:EOLhyphen"/>ward the Confeſſor,</hi> who calls it the <note n="*" place="margin">Iamb. Appendix Edw. de Rome Seat. § 10.</note> Kings Almes. <hi>William the Conqueror</hi> alloweth this gift, but renounceth all Obedience to the Pope, as ap<g ref="char:EOLhyphen"/>pears by <hi>Lanfranks Epiſt.</hi> 
+               <note n="d" place="margin">Apud Eadiner p. 113</note> Pope <hi>Paſcal</hi> 2. in a Letter to <hi>Hen.</hi> d. calls this Donation <hi>Beati Petri Eleemoſyna,</hi> and <note n="e" place="margin">Reſ<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. ab A<gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>l. Bel<g ref="char:EOLhyphen"/>larning pag.83.</note> Biſhop <hi>Andrews</hi> tells us, that it was an Alms given to a Hoſpital at <hi>Rome,</hi> where they uſul to entertain Pilgrims out of <hi>England.</hi>
+            </p>
+            <p>The Second pretended Title is from King <hi>John</hi>'s Reſignation of the Crown to <hi>Pandulphus</hi> the Popes Legate, and receiving it again under Fe<g ref="char:EOLhyphen"/>alty, and Homage, and at the yearly Tribute of a Thouſand Marks. Which Title upon ſeveral accounts will appear invalid. Firſt as to mat<g ref="char:EOLhyphen"/>ter of Fact; <note n="f" place="margin">In Sup<g ref="char:EOLhyphen"/>plicat. of Soules Pag. 296.</note> Sir <hi>Thomas Moor,</hi> who could not want all advantages of informing himſelf in affairs of this nature, denies it, his words are theſe; <q>Some Writers ſay, that King <hi>John</hi> made <hi>England</hi> and <hi>Ireland</hi> Tributary to the Pope, by the grant of a thouſand Marks; we dare ſurely ſay again, that this is untrue, and that all <hi>Rome</hi> neither can ſhew ſuch a grant, nor ever could, and if they could, it were right nought worth: <hi>For never could any King of England give away the Realm to the Pope, or make the land Tributary if he would,</hi> nor no ſuch money is there paid, nor never was.</q> Theſe are the words of that great States-man, who was no enemy to the Popes Authority. But granting there was ſomething done to this purpoſe, in the preſe<gap reason="illegible: faint" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Peers, and without the Conſent of A<g ref="char:EOLhyphen"/>ny, as <hi>Mat. Paris</hi> a Monk of Saint <hi>Al<g ref="char:EOLhyphen"/>bans,</hi> who lived at that time, acquaints us; I ſhall take my Second Argument to invallidate this Title, from the words of Sir <hi>Thomas Moor</hi> before cit<g ref="char:EOLhyphen"/>ed: for if they could at <hi>Rome</hi> ſhew a<g ref="char:EOLhyphen"/>ny ſuch grant, yet it were right nought worth: for never any King of <hi>England</hi> could give away the Realm to the Pope, nor make the Land Tri<g ref="char:EOLhyphen"/>butary if he would. And herein a<g ref="char:EOLhyphen"/>gree the Learned <hi>Grotius, Bodinus,</hi> and other Lawyers: and the Barons of this Realm were obliged by their Oaths, <note n="g" place="margin">Lam<g ref="char:EOLhyphen"/>bert Apx. p. 170. lib. 50. de obſequiv erga Regem lege 59 p. 171.</note> 
+               <hi>Terras &amp; honores Regis omni fidelitate ubique ſervare cum co, &amp; contra ini<g ref="char:EOLhyphen"/>micos &amp; alicnigenas deſende<g ref="char:EOLhyphen"/>re,</hi> To preſerve together with the King the Territo<g ref="char:EOLhyphen"/>ries and Honor of the King, and to de<g ref="char:EOLhyphen"/>fend them againſt their Enemies and Forraigners. And herewith agrees the Command which the Conqueror laid upon all the Commons; <hi>Firmiter pra<g ref="char:EOLhyphen"/>cipimus ut omnes liberi homines totius Regni praedicti ſint ſratres jurati ad Mo<g ref="char:EOLhyphen"/>narchiam noſtram proviribus ſuis &amp; ſa<g ref="char:EOLhyphen"/>cultatibus, contra inimicos pro poſſe ſuo deſendendum, &amp; viriliter ſervandum.</hi> i. e. We ſtrictly Charge and Command, that all Free-holders in all parts of our Kingdom ſhall be ſworn Brethren, Sworn to defend our Monarchy with their Perſons and Eſtates, to the ut<g ref="char:EOLhyphen"/>moſt of their ability, and manfully to preſerve it: by which it appears that the Commons were as well as the Lords bound to defend their Coun<g ref="char:EOLhyphen"/>try againſt Uſurpations and Invaſi<g ref="char:EOLhyphen"/>ons; and we doubt not but the ſame Engliſh courage is to be found a<g ref="char:EOLhyphen"/>mongſt their poſterity, which we find <note n="h" place="margin">Coll. Poſthum. pag. 348. which be quoteth è lib. Sancti Albani fol. 207.</note> Recorded about the 44. year of Henry the third. For when Pope <hi>Alexander</hi> the Fourth demanded a re<g ref="char:EOLhyphen"/>vocation of <hi>Adomar</hi> Biſhop of <hi>Wincheſter,</hi> becauſe he was a Church-man; as was urged, and not ſubject to lay Cenſures, who had been Baniſhed by the joynt conſent of the King, Lords and Commons, for his intolerable Inſolence, the Commons gave this reſolute anſwer to the Popes demand, <hi>Peter de Monford</hi> being Prolocutor; <hi>Si Dominus Rex &amp; Regni Majores noc vellent,</hi> (meaning <hi>Adomar</hi>'s revocation fom Baniſhment,) <hi>COMMUNITAS tamen ipſius ingreſſum in</hi> Angliam jam <hi>nul<g ref="char:EOLhyphen"/>l<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> ſuſtinorat.</hi> Though the King, and Peers of the Realm ſhould declare for his return, yet the Commons would by no meanes endure it. Laſtly no man can confer a greater Right upon another, than what is in himſelf; and that King <hi>John</hi> was an Uſurper, is evident from all Hi<g ref="char:EOLhyphen"/>s;tories of that Age for <hi>Arthur</hi> of Brittain, his Elder Brothars Son, was Thirteen years or Age, when <hi>John</hi> invaded the Throne, but tearing that he might not be long quiet in his Poſſeſſion, whilſt the Right Heir was alive, he Murder'd his Nephew, and impriſon'd his Neice <hi>Elianor,</hi> who ſurvived him; and his doth utterly make void his Right to diſpoſe of what he had not right to keep. And of what ſmall account was this pretended Title, not only the Reſolutions of the Commons afore mentioned, but alſo this Letter Subſeribed by all the Peers of <hi>England</hi> will abundantly manifeſt.</p>
+         </div>
+         <div type="to_the_reader">
+            <p>THe Reader may pleaſe to take notice, that the Exemplar whence this was taken is in <hi>Corpus Chriſti</hi> Col<g ref="char:EOLhyphen"/>ladge Library in <hi>Oxon,</hi> and Recorded by <hi>Mat. Weſtminſter,</hi> and <hi>Walſingham,</hi> and mentioned by <hi>Parſons</hi> in his anſwer to the Lord Chief Juſtice <hi>Coks</hi> Reports, but without any Reply, <hi>Pag.</hi> 266. <hi>cap.</hi> 11. and whereas in that the ames round the Ar<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ies are in an antient Engliſh letter, the Graver being being unacquainted with the Characterm, for his own eaſe, and more convenient Reading hath put them in the Modern.</p>
+         </div>
+         <div type="imprimatur">
+            <opener>
+               <dateline>
+                  <date>
+                     <hi>Febr.</hi> 8. 1678.</date>
+               </dateline>
+            </opener>
+            <p>Imprimatur,</p>
+            <closer>
+               <signed>
+                  <hi>JOHN NICHOLAS</hi> Vice-Can. <hi>OXON.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>OXFORD.</hi> Printed by LEON. LICHFIELD for RICHARD DAVIS, 1619. And are to be Sold by <hi>MOSES PITT,</hi> at the Angel; <hi>HENRY MORTLOCK,</hi> at the Phaenix, in St. Pauls Church Yard: and at the White Hart in <hi>Weſtminſter Hall.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
